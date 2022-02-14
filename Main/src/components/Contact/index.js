@@ -77,6 +77,9 @@ function Contact() {
         )}
         <button type="submit">Submit</button>
       </form>
+      <p>Please submit form or contact me at:</p>
+      <p>email: bpappas302@gmail.com</p>
+      <p>phone: 603.660.1054</p>
     </section>
   );
 }
