@@ -8,10 +8,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Hi! I'm Brianna Pappas. I am a Roger Williams University Bachelor Degree graduate and experienced Contracts Specialist with a demonstrated history of working in the Information Technology and Services industries. 
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        Additionally, I am a current student of the UNH Coding Bootcamp where I will receive a certificate in Full Stack Web Development with skills in HTML, CSS, Javascript, React, SQL and more. I am eager to join a web development team where I can share these skills and also contribute my real life and corporate experience. 
         </p>
       </div>
     </section>
